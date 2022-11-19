@@ -1,0 +1,23 @@
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+
+}
+.container {
+
+    margin-top: 150px;
+    text-align: center;
+    border: 100px;
+    
+}
+
+.btn {
+
+   text-align: center;
+
+}
+ body {
+     background-image: url("https://img.freepik.com/free-vector/blue-cloudy-daylight-background-weather-design_33099-512.jpg?w=1480&t=st=1668828988~exp=1668829588~hmac=ec97a0369970e5371034fe9c5b8bd4c4e498788937ebffde936ff8c2c5735548");
+   
+ }
+
